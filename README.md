@@ -1,5 +1,5 @@
 # Cascade-Blur
-Cascade-Blur is a combination of 2 themes including [MacOSVibrant](https://github.com/Tnings/MacosVibrant) and [Cascade](https://github.com/andreasgrafen/cascade). It's a harmonious combination of simplicity, creating a beautiful interface.
+Cascade-Blur is a combination of 2 themes including [MacOSVibrant](https://github.com/Tnings/MacosVibrant) and [Cascade](https://github.com/andreasgrafen/cascade) on Firefox browser. It's a harmonious combination of simplicity, creating a beautiful interface.
 <br>
 
 <img width="1439" alt="Screenshot 32" src="https://github.com/trinhqhuy/Cascade-Blur/assets/77260252/e054116d-92f8-4926-a651-5c11ecd6a467">
